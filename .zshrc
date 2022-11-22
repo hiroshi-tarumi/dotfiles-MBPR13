@@ -73,3 +73,5 @@ alias mv="mv -i"
 alias df="df -h"                          # human-readable sizes
 alias free="free -h"
 alias du="du -h"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
